@@ -21,7 +21,7 @@
     "omnipay/common": "3.2.0",
     "redsys/messages": "*",
     "php-http/curl-client": "2.2.1",
-    "guzzlehttp/psr7": "2.1.0",
+    "guzzlehttp/psr7": "^2.1.0",
     "php-http/message": "^1.7"
   },
   "autoload": {
